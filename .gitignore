@@ -1,7 +1,7 @@
-idea/
+./idea/
 !/.gitignore
 !/TestUnit.iml
 Removeria src/main/resources/
 Removeria target/generated-sources/
 Removeria target/generated-test-sources/
-/target/
+./target/
